@@ -4,12 +4,12 @@ Get shadows for any element.
 
 #INSTALLATION   
 
-`npm i shadowise --save`
+`npm i trial_lib_shadowise --save`
 
 #USAGE
 
 ```
-import {shadowise} from 'shadowise';
+import {shadowise} from 'trial_lib_shadowise';
 
 shadowise ({
     shadow_type: 'soft',
